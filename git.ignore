@@ -1,0 +1,38 @@
+# Executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# VS Code specific
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# CMake / Make
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs or temp files
+*.log
+*.tmp
+
+# Backup/swap files
+*~
+*.swp
+*.swo
